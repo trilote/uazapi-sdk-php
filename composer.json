@@ -1,0 +1,17 @@
+{
+    "name": "trilote/uazapi-sdk-php",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Trilote\\UazapiSdkPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gilglécio Oliveira",
+            "email": "gilglecio_765@hotmail.com"
+        }
+    ],
+    "require": {}
+}
